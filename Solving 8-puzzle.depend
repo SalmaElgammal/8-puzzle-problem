@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1576417703 source:/home/salma/codeblocks_projects/Solving 8-puzzle/main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<stack>
+	<algorithm>
+	"State.h"
+
+1576188210 /home/salma/codeblocks_projects/Solving 8-puzzle/State.h
+	<vector>
+	<iostream>
+
